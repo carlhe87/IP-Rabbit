@@ -15,4 +15,11 @@ The current *Index* can be used directly for reading Visser's book, reading any 
 The *keyword list* can be used for manual highlight guide, Chrome auto multi highlight, and NotePad++ writing
 The current *Index* can be further expanded into a mindmap or conccept map or even a knowledge graph.
 
+2020.06.19
+I have uitilized the NotePad++ and Pearl for cleaning the text of EPC and IR, now available in this website.
+EPC and IR are legal texts and therefore no copyright issue exists. It is safe to publish.  
+In the next step, I would like to edit the EPC and IR in a wiki manner with keywords and index based on Visser's book.
+Since I am working based on the book, rather than copying it, therefore, there should be no copy right issue.  
+The wiki style can be combined with highlighting: link keywords to the index, and then free highlight. This can be a gradual process during the study of the index.  
+
 
