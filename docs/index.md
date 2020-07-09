@@ -3,6 +3,7 @@
 
 --> Intersting Topics
 - Pure text of [EPC](EPC.md) and [IR](IR.md)
+- pure text based fast mindmapping [txt2Cmap](https://carlhe87.github.io/txt2Cmap/)
 
 # Intro
 This rabbit started to "seriously" prepare for the EQE from June 1, 2020. Despite the pre-EQE is yet to come in March 2021, this rabbit realize that he has to hurry up as his little rabbit is on her way.  
