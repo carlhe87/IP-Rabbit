@@ -26,3 +26,6 @@ The wiki style can be combined with highlighting: link keywords to the index, an
 The "problem" is a "task" or a gap to be overcome by person skilled in the art(PSA) to work out a solution to reach the present invention(PI) from the closest prior art(CPA).  
 The "solution" bridges the said gap.  The prior art provides a "solution PA" and the PI provides a "solution PI". "solution PA" + "solution" = "solution PI"
 Difference refers to difference in technical features. It is the **presence** of the said difference rather than the difference in itself that result in the technical effect. In analogy, if someone eat seven loafs bread and feel full, it is not the seventh loaf, but the seventh loaf in addition to the previous six altogether, that cause the feeling of fullness. Here, "partial problem" is an issue. If the seventh bread is exceptionally large and so large that without the previous six loaves one still reach fullness. Then the distinguishing feature in itself can solve the problem, so that the obviousness analysis is altered. 
+
+# Novelty
+Since novelty issue is a matter of existance, regardless how remote the document can be, anything published here, for example, should also be counted as SOA. Is that right?
