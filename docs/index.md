@@ -1,9 +1,7 @@
 # IP-Rabbit 
 --> [Study note](main.md)
----->[BES](BES_draft.md)
 
 --> Intersting Topics
-- [German](DE.md) languate
 - Pure text of [EPC](EPC.md) and [IR](IR.md)
 - pure text based fast mindmapping [txt2Cmap](https://carlhe87.github.io/txt2Cmap/)
 
